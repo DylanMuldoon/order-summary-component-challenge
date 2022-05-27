@@ -10,7 +10,7 @@
 
 *:focus {
   outline: none;
-  outline: 5px dotted #6054e6;
+  outline: 4px dotted #6054e6;
   outline-offset: 4px;
 }
 
